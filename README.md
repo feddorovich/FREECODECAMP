@@ -1,2 +1,2 @@
 # FREECODECAMP Repositiry
-# HTML, CSS & JS
+HTML, CSS & JS
