@@ -15,6 +15,7 @@
     <li>flea treatment</li>
     <li>thunder</li>
     <li>other cats</li>
+    <li>other</li>
   </ol>
   <form action="https://www.freecatphotoapp.com/submit-cat-photo">
     <label for="indoor"><input id="indoor" value="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
