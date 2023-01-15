@@ -1,6 +1,6 @@
 <style>
   .injected-text {
-    margin-bottom: -26px;
+    margin-bottom: -25px;
     text-align: center;
   }
 
